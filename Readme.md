@@ -8,9 +8,9 @@ Slower clock signal can be useful in lowering power consumption for low frequenc
 <br />
 <p align="center">
   <img src="Sources/Circuit design.jpg" width="800"><br />
-  Circuit design
+  Circuit design<br />
+  D flip-flop cascaded with synchronous reset pin<br />
 </p>
-D flip-flop cascaded with synchronous reset pin<br />
 
 <br />
 1. Clock follower
