@@ -16,7 +16,7 @@ D flip-flop cascaded with synchronous reset pin<br />
 1. Clock follower
 <br />
 <p align="center">
-  <img src="Sources/1. Clock follower (100MHz).jpg" width="400"><br />
+  <img src="Sources/1. Clock follower (100MHz).jpg" width="600"><br />
   Clock follower
 </p>
 CLK          : 100MHz<br />
@@ -27,7 +27,7 @@ Duty_cycle   : 10ns <br />
 2. Clock with one division
 <br />
 <p align="center">
-  <img src="Sources/2. Clock (50MHz).jpg" width="400"><br />
+  <img src="Sources/2. Clock (50MHz).jpg" width="600"><br />
   Clock with one division
 </p>
 CLK          : 100MHz<br />
@@ -38,7 +38,7 @@ Duty_cycle   : 20ns <br />
 3. Clock with four division
 <br />
 <p align="center">
-  <img src="Sources/3. Clock (6.25MHz).jpg" width="400"><br />
+  <img src="Sources/3. Clock (6.25MHz).jpg" width="600"><br />
   Clock with four division
 </p>
 CLK          : 100MHz<br />
