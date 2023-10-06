@@ -3,7 +3,7 @@
 
 The program is compiled in Intel Quartus Prime and run under the testbench to perform the functional computation.
 The clock divider takes a clock signal and a clock select signal to output the divided clock signal that may be useful for certain component within circuit that utilizes slower clock.
-Slower clock signal can be useful in lowering power consumption for low ffrequency components as power is consumed during transition state hence dividing clock according to application can reduce the over power consumption.
+Slower clock signal can be useful in lowering power consumption for low frequency components as power is consumed during transition state hence dividing clock according to application can reduce the over power consumption.
 
 <br />
 <p align="center">
