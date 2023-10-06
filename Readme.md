@@ -7,7 +7,7 @@ Slower clock signal can be useful in lowering power consumption for low frequenc
 
 <br />
 <p align="center">
-  <img src="Sources/Circuit design.jpg" width="400"><br />
+  <img src="Sources/Circuit design.jpg" width="800"><br />
   Circuit design
 </p>
 D flip-flop cascaded with synchronous reset pin<br />
